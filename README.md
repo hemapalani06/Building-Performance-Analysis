@@ -1,16 +1,19 @@
 🏢 Building Performance Analysis
 
-📌 Introduction
+📌 Introduction:
+
 The Building Performance Analysis project focuses on improving the efficiency, sustainability, and design of buildings by leveraging computational tools, simulation software, and data analytics. It evaluates key performance indicators like thermal comfort, energy consumption, and daylight analysis to assist architects and engineers in making data-driven design decisions.
 
-🎯 Objective
+🎯 Objective:
+
 Analyze and optimize building designs for energy efficiency and occupant comfort.
 
 Simulate various performance metrics to inform better architectural decisions.
 
 Provide insights for retrofitting and sustainability improvements.
 
-🗂️ Data Source & Simulated Dataset
+🗂️ Data Source & Simulated Dataset:
+
 Simulated real-world building data.
 
 Custom datasets generated via simulation software for thermal, energy, and daylight analysis.
@@ -23,7 +26,8 @@ HVAC load
 
 Daylight factor
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Programming Language: Python
 
 Simulation Tools: Building energy simulation engines (e.g., EnergyPlus, custom Python models)
@@ -34,18 +38,20 @@ Visualization: Matplotlib, Seaborn, Plotly
 
 Others: Custom scripts/APIs for simulation and data processing
 
-📊 Visualizations
+📊 Visualizations:
+
 The project includes:
 
-Energy simulation outputs
+1.Energy simulation outputs
 
-Thermal comfort graphs
+2.Thermal comfort graphs
 
-Daylight analysis visuals
+3.Daylight analysis visuals
 
-Simulation performance diagrams (response time, prediction accuracy, etc.)
+4.Simulation performance diagrams (response time, prediction accuracy, etc.)
 
-🚀 How to Run the Project
+🚀 How to Run the Project:
+
 1.Clone the repository
 
 2.Set up the environment
